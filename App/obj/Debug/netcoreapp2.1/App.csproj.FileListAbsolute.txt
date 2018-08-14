@@ -1,0 +1,12 @@
+C:\Users\Sola\Documents\projects\ai\MLNetExample1\App\bin\Debug\netcoreapp2.1\iris.data.txt
+C:\Users\Sola\Documents\projects\ai\MLNetExample1\App\bin\Debug\netcoreapp2.1\App.deps.json
+C:\Users\Sola\Documents\projects\ai\MLNetExample1\App\bin\Debug\netcoreapp2.1\App.runtimeconfig.json
+C:\Users\Sola\Documents\projects\ai\MLNetExample1\App\bin\Debug\netcoreapp2.1\App.runtimeconfig.dev.json
+C:\Users\Sola\Documents\projects\ai\MLNetExample1\App\bin\Debug\netcoreapp2.1\App.dll
+C:\Users\Sola\Documents\projects\ai\MLNetExample1\App\bin\Debug\netcoreapp2.1\App.pdb
+C:\Users\Sola\Documents\projects\ai\MLNetExample1\App\obj\Debug\netcoreapp2.1\App.csprojResolveAssemblyReference.cache
+C:\Users\Sola\Documents\projects\ai\MLNetExample1\App\obj\Debug\netcoreapp2.1\App.csproj.CoreCompileInputs.cache
+C:\Users\Sola\Documents\projects\ai\MLNetExample1\App\obj\Debug\netcoreapp2.1\App.AssemblyInfoInputs.cache
+C:\Users\Sola\Documents\projects\ai\MLNetExample1\App\obj\Debug\netcoreapp2.1\App.AssemblyInfo.cs
+C:\Users\Sola\Documents\projects\ai\MLNetExample1\App\obj\Debug\netcoreapp2.1\App.dll
+C:\Users\Sola\Documents\projects\ai\MLNetExample1\App\obj\Debug\netcoreapp2.1\App.pdb
